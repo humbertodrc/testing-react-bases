@@ -1,0 +1,23 @@
+{
+  "name": "testing-react-bases",
+  "version": "1.0.0",
+  "description": "Bases de testin en react",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/humbertodrc/testing-react-bases.git"
+  },
+  "keywords": [
+    "testing",
+    "react"
+  ],
+  "author": "Humberto Rivero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/humbertodrc/testing-react-bases/issues"
+  },
+  "homepage": "https://github.com/humbertodrc/testing-react-bases#readme"
+}
